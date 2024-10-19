@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LewdSensei
+- 👋 Hi, I’m @Sensei
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
